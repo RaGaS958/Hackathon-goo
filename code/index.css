@@ -1,0 +1,36 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header nav
+{
+    height: 12vh;
+   display: flex;
+   justify-content: center;
+   padding: 0.2rem;
+ 
+}
+.ends
+{
+    width: 5%;
+    height:70%;
+    border-top-left-radius: 50%;
+    background-color: rgb(28, 87, 247);
+}
+#end2
+{
+border-bottom-right-radius: 40%;
+}
+#end1
+{
+border-bottom-left-radius: 40%;
+}
+.mid
+{
+    width: 90%;
+    height: 70%;
+    background-color: rgb(30, 30, 245);
+    b
+}
